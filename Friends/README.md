@@ -9,3 +9,5 @@
 ## 실행 방법
 
 다음의 Colab notebook 주소로 접속하여 각 셀을 순차적으로 실행하시면 됩니다.
+
+[14조 - Multiclass Classification Task](https://colab.research.google.com/drive/1DvfRzHzMhFwe3TXfEuigwH0a96H00UML?usp=sharing)
