@@ -1,0 +1,11 @@
+# Friends 데이터셋을 이용한 Multiclass classification
+
+> **실험 환경**  
+> 
+> Google Colaboratory
+> - OS : Ubuntu 18.04
+> - Python : 3.6.9
+
+## 실행 방법
+
+다음의 Colab notebook 주소로 접속하여 각 셀을 순차적으로 실행하시면 됩니다.
